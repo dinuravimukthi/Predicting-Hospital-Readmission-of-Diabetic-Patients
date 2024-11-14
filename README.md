@@ -6,6 +6,7 @@ The <a href="https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+f
 * patient did not readmit (No)
 
 This project focuses on predicting whether a patient will readmit to the hospital after he/she is discharged.
+Therefore, patients who did not readmit will be considered as one target class, and the rest of the initial labels will be considered as patients who readmitted (Yes) target class.
 
 ## Key Steps
 ### 1. Exploratory Data Analysis
