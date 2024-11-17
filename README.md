@@ -59,4 +59,12 @@ Achieved a testing accuracy of 0.639 and a recall of 0.535
 <br>
 
 ### References
-[1] J. Clore, K. Cios, J. DeShazo, and B. Strack. "Diabetes 130-US Hospitals for Years 1999-2008," UCI Machine Learning Repository, 2014. [Online]. Available: https://doi.org/10.24432/C5230J.
+[1] J. Clore, K. Cios, J. DeShazo, and B. Strack. "Diabetes 130-US Hospitals for Years 1999-2008," UCI Machine Learning Repository, 2014. [Online]. Available: https://doi.org/10.24432/C5230J
+
+<br><br>
+### Screenshots
+<br>
+
+![Screenshot 2024-11-17 224412](https://github.com/user-attachments/assets/c35ae663-eb2f-4695-aa94-13da8a6ac71b)
+![Screenshot 2024-11-17 224422](https://github.com/user-attachments/assets/96a83f42-27a2-430e-ad77-0ad0d2fe863b)
+![Screenshot 2024-11-17 224521](https://github.com/user-attachments/assets/5971d226-f643-429a-8714-ed5cf317acc0)
